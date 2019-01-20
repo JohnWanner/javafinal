@@ -1,0 +1,4 @@
+
+001 kid1 03/30/1999 Budapest
+002 kid2 01/23/1982 Debrecen
+003 kid3 03/30/1999 Budapest
